@@ -1,4 +1,4 @@
-title: Cats
+title: Batman
 categories:
   - Istio
 description: new lp.md description
@@ -8,5 +8,4 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - Female Cats
-  - Male Cats
+  - Bat Woman
