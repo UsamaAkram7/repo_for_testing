@@ -1,8 +1,7 @@
 title: Batman
 categories:
   - Istio
-  - Batty
-description: new lp.md description
+Description: new lp.md description
 isAvailable: true
 isNew: true
 isPremium: true
