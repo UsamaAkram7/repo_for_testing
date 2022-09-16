@@ -1,6 +1,6 @@
 title: Nala
 description: updated description abcdsdasfsdsaadsSFDSA
-time: 5 minutes
+time: 5 Minutes
 level: beginner
 steps:
   - step1.md
