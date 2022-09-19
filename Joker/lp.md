@@ -1,7 +1,7 @@
 title: Joker
 categories:
   - Istio
-Description: new lp.md description
+description: new lp.md description
 isAvailable: true
 isNew: yass
 isPremium: true
