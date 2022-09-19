@@ -1,7 +1,7 @@
 title: Bat Woman
 description: updated description abcdsdasfsdsaadsSFDSA
 time: 5 minutes
-level: amature
+level: intermediate
 steps:
   - step1.md
 license: Apache
