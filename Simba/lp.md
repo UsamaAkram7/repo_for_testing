@@ -1,7 +1,7 @@
 title: Simba
 categories:
   - Istio
-description: new description
+description: sjssjs
 isAvailable: true
 isNew: true
 isPremium: true
