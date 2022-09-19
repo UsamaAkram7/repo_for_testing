@@ -1,9 +1,9 @@
 title: Batman
 categories:
   - Istio
-Description: new lp.md description
+description: new lp.md description
 isAvailable: true
-isNew: yess
+isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 1
