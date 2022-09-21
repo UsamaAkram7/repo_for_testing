@@ -1,7 +1,7 @@
 title: Superman
 categories:
   - Istio
-Description: new lp.md description
+description: new lp.md description
 isAvailable: true
 isNew: true
 isPremium: true
