@@ -1,4 +1,4 @@
-title: Superman
+title: Captain America
 categories:
   - Istio
 description: new lp.md description
@@ -7,5 +7,4 @@ isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 1
-scenarios:
-  - Super Woman
+scenarios: []
