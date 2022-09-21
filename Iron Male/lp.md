@@ -1,4 +1,4 @@
-title: Ironman
+title: Iron Male
 categories:
   - Istio
 description: new lp.md description
@@ -8,4 +8,4 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
- - Iron Woman
+ - Iron Female
