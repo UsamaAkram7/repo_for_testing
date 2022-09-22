@@ -1,4 +1,4 @@
-title: Hulkkk
+title: Truck
 categories:
   - Istio
 description: new lp.md description
@@ -7,5 +7,4 @@ isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 1
-scenarios: 
- - Fe Hulk
+scenarios: []
