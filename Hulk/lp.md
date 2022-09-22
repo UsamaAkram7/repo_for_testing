@@ -1,4 +1,4 @@
-title: Iron Male
+title: Hulk
 categories:
   - Istio
 description: new lp.md description
@@ -7,5 +7,4 @@ isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 1
-scenarios:
- - Iron Meme
+scenarios: []
