@@ -1,4 +1,4 @@
-title: Buss
+title: Small Box
 description: updated description abcdsdasfsdsaadsSFDSA
 time: 5 Minutes
 level: beginner
