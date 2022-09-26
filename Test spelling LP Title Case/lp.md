@@ -1,7 +1,7 @@
 title: Test spelling LP Title Case
 categories:
   - Istio
-description: new description
+description: new description ffff fgsgfg
 isAvailable: true
 isNew: yess
 isPremium: true
