@@ -1,7 +1,7 @@
-title: Female Ramboo
+title: Thumbnail Check
 description: updated description abcdsdasfsdsaadsSFDSA
 time: 5 Minutes
-level: beginner
+level: beginnerr
 steps:
   - step1.md
 license: Apache
