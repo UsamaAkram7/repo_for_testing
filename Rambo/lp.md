@@ -1,9 +1,9 @@
 title: Rambo
 categories:
   - Istio
-description: new description
+description: new description gggggggg ujjjjj
 isAvailable: true
-isNew: yess
+isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 3
