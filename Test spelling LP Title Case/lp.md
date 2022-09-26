@@ -1,4 +1,4 @@
-title: Test spelling Lp Title Case
+title: Test Spelling Lp Title Case
 categories:
   - Istio
 description: new description ffff fgsgfg
