@@ -3,7 +3,7 @@ categories:
   - Istio
 description: new description witth the zzmfur
 isAvailable: true
-isNew: yess
+isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 1
