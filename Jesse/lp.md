@@ -8,5 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - Antman
-  - Bat Woman
+  - Female Jesse
+  - Male Jesse
