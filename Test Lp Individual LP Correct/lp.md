@@ -1,4 +1,4 @@
-title: Test Lp Individual LP Correct
+title: Test Lp Individual Lp Correct
 categories:
  - Istio
 description: With the increase in usage of containerized applications,
