@@ -5,6 +5,6 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
-scenarios:
+scenarioCount: 0
+scenarios: []
 title: Krypto
