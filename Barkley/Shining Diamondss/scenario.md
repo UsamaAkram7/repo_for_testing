@@ -1,4 +1,4 @@
-title: Shining Diamonds
+title: Shining Diamondss
 steps:
   - step1.md
 license: Apache
