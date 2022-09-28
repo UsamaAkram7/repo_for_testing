@@ -1,4 +1,4 @@
-title: Maria Scenario4
+title: Black Ops Two
 description: Learn the basics of Goroutines.
 time: 15 minutes
 level: intermediate
