@@ -10,5 +10,5 @@ scenarios:
  - Black Ops One
  - Black Ops Two
  - Black Ops Three
- - Shining Diamond
+ - Shining Diamonds
 title: Barkley
