@@ -5,7 +5,7 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 3
+scenarioCount: 4
 scenarios:
  - Black Ops One
  - Black Ops Two
