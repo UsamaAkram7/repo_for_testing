@@ -5,6 +5,9 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 0
-scenarios: []
+scenarioCount: 3
+scenarios:
+ - Black Ops One
+ - Black Ops Two
+ - Black Ops Three
 title: Krypto
