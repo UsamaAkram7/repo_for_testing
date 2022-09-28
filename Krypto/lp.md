@@ -1,4 +1,3 @@
-title: Black Ops
 categories:
   - Golang
 description: Lets learn how to develop a concurrent application in Go language.
@@ -6,7 +5,6 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 1
+scenarioCount: 2
 scenarios:
-  - Black Ops Three
-
+title: Krypto
