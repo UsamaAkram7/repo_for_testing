@@ -1,13 +1,12 @@
 categories:
-  - Golang
+  - Docker
 description: Lets learn how to develop a concurrent application in Go language.
 isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 3
+scenarioCount: 2
 scenarios:
-  - Hn Scenario1
-  - Hn Scenario2
-  - Hn Scenario
-title: Lp Hn
+  - Scenario One Typo Two
+  - Scenario Two Typo Two
+title: Typo Two

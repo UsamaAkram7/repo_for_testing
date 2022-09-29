@@ -5,6 +5,9 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
-scenarios: []
-title: Lp Hn1
+scenarioCount: 3
+scenarios:
+  - Scenario One Typo One
+  - Scenario Two Typo One
+  - Scenario Three Typo One
+title: Typo One

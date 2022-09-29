@@ -1,5 +1,6 @@
-title: Hassan Scenario4
-steps: []
+title: Scenario Two Typo One
+steps:
+  - step1.md
 license: Apache
 isNew: true
 isPremium: true
