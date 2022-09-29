@@ -1,7 +1,7 @@
 categories:
   - python
-title: Sa Git Lp 3
-description: git learning path for testing purpose to check the description is working or not properly. very long description
+title: Barkley
+description: git learning path for testing purpose to check the.
 isPremium: true
 isNew: true
 isAvailable: true
