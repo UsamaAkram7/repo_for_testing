@@ -1,5 +1,6 @@
-title: Scenario One Typo Two
-steps: []
+title: Scenario Two Typo Two
+steps:
+ - step1.md
 license: Apache
 isNew: true
 isPremium: true
