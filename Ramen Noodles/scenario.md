@@ -1,4 +1,4 @@
-title: Scenario Two Typo Two
+title: Ramen Noodles
 steps:
  - step1.md
 license: Apache
