@@ -7,7 +7,6 @@ isNew: true
 isAvailable: true
 scenarioCount: 4
 scenarios:
- - Black Ops 
  - Black Ops Two
  - Black Ops Three
  - Shining Diamondss
