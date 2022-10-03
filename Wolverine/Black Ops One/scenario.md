@@ -2,7 +2,7 @@ title: Black Ops One
 steps:
   - step1.md
 license: Apache
-isNew: Yess
+isNew: true
 isPremium: true
 isAvailable: true
 description: hello description. How are you@!? whats going on.
