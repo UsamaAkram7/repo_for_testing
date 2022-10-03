@@ -1,10 +1,10 @@
-title: Ramen Noodles
+title: Shining Diamondss
 steps:
- - step1.md
+  - step1.md
 license: Apache
 isNew: true
 isPremium: true
 isAvailable: true
 description: hello description. How are you@!? whats going on.
-time: 25 minutes
+time: 15 minutes
 level: beginner

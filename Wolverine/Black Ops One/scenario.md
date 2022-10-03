@@ -1,0 +1,10 @@
+title: Black Ops One
+steps:
+  - step1.md
+license: Apache
+isNew: Yess
+isPremium: true
+isAvailable: true
+description: hello description. How are you@!? whats going on.
+time: 15 minutes
+level: beginner
