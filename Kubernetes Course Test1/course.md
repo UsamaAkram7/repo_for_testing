@@ -1,4 +1,4 @@
-courseName: Kubernetes Course Test12
+courseName: Kubernetes Course Test1
 description: New Kubernetes Course For Test
 isAvailable: true
 isPremium: false
@@ -7,5 +7,6 @@ price:
   currency: USD
 categories: 
   - kubernetes
-learningPaths: []
+learningPaths:
+  - Kubernetes Learning Path 1
 complexity: advance
