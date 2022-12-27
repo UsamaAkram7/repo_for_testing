@@ -5,7 +5,7 @@ scenarios:
   - Shafaq Kubernetes Scenario 2
 isPremium: false
 isAvailable: true
-scenarioCount: 1
+scenarioCount: 2
 isNew: true
 categories: 
   - kubernetes
