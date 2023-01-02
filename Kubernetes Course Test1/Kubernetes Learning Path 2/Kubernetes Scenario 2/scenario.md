@@ -1,9 +1,9 @@
-title: Shafaq Kubernetes Scenario 2
+title: Kubernetes Scenario 2
 description: Understanding python and go scenaarios for testing the description of lp python
 time: 25 minutes
 steps:
   - step1.md
 isNew: true
-isPremium: false
+isPremium: falsess
 isAvailable: true
 level: expert
