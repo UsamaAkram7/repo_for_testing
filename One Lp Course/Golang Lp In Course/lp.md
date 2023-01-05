@@ -1,12 +1,10 @@
-title: Kubernetes Learning Path 2
+title: Golang Lp In Course
 description: Lets learn how to build a web application with Flask.
 scenarios: 
-  - Kubernetes Scenario 1
-  - Kubernetes Scenario 2
+  - Shafaq Scenario Go
 isPremium: false
 isAvailable: true
-scenarioCount: 2
+scenarioCount: 1
 isNew: true
 categories: 
-  - kubernetes
-
+  - docker
