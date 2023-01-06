@@ -1,4 +1,4 @@
-courseName: Kubernetes Course Test101
+courseName: Kubernetes Course Test1011
 description: New Kubernetes Course For Test
 isAvailable: true
 isPremium: false
