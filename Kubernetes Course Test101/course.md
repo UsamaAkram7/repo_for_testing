@@ -7,5 +7,7 @@ price:
   currency: USD
 categories: 
   - kubernetes
-learningPaths: []
+learningPaths:
+  - Kubernetes Learning Path 1
+  - Kubernetes Learning Path 2
 complexity: advance

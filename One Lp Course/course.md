@@ -6,5 +6,6 @@ categories:
     - docker
     - kubernetes
     - golang
-learningPaths: []
+learningPaths:
+    - Golang Lp In Course
 complexity: advance
