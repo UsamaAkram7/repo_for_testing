@@ -1,7 +1,7 @@
 title: Kubernetes Learning Path 11
 description: Lets learn how to build a web application with Flask.
 scenarios: 
-  - Kubernetes Scenario 1
+  - Kubernetes Scenarioo 1
   - Kubernetes Scenarioo 2
 isPremium: false
 isAvailable: true
