@@ -1,4 +1,4 @@
-title: Kubernetes Scenario 2
+title: Kubernetes Scenario 222
 description: Understanding python and go scenaarios for testing the description of lp python
 time: 25 minutes
 steps:

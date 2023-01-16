@@ -10,5 +10,7 @@ categories:
 learningPaths:
   - Kubernetes Learning Path 11
   - Kubernetes Learning Path 22
-  - New Test Lp Ua One
+  - Kubernetes Learning Path 33
+  - Kubernetes Learning Path 44
+  - Kubernetes Learning Path 55
 complexity: advance
