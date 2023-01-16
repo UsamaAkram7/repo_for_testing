@@ -1,4 +1,4 @@
-title: Shafaq Kubernetes Scenarioo 2
+title: Shafaq Kubernetes Scenarioo 22
 description: Understanding python and go scenaarios for testing the description of lp python
 time: 25 minutes
 steps:

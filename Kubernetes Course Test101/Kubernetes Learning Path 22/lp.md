@@ -1,8 +1,8 @@
-title: Kubernetes Learning Path 2
+title: Kubernetes Learning Path 22
 description: Lets learn how to build a web application with Flask.
 scenarios: 
-  - Kubernetes Scenario 1
-  - Kubernetes Scenario 2
+  - Kubernetes Scenario 11
+  - Kubernetes Scenario 22
 isPremium: false
 isAvailable: true
 scenarioCount: 2

@@ -1,4 +1,4 @@
-title: New Test Course Ua
+title: New Test Lp Ua One
 description: Lets learn how to build a web application with Flask.
 scenarios: []
 isPremium: false

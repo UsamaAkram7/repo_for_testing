@@ -8,7 +8,7 @@ price:
 categories: 
   - kubernetes
 learningPaths:
-  - Kubernetes Learning Path One
-  - Kubernetes Learning Path 2
-  - New Test Course Ua
+  - Kubernetes Learning Path 11
+  - Kubernetes Learning Path 22
+  - New Test Lp Ua One
 complexity: advance
