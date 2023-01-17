@@ -1,4 +1,4 @@
-title: Single Kubernetes Scenario One
+title: Single Kubernetes Scenariooo One
 description: Understanding python and go scenaarios for testing the description of lp python
 time: 25 minutes
 steps:
