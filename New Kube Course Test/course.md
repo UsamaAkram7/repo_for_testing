@@ -6,7 +6,7 @@ price:
   value: 22
   currency: USD
 categories: 
-  - golang
+  - kubernetes
 learningPaths:
   - New Kube Course Test Lp 1
 complexity: advance

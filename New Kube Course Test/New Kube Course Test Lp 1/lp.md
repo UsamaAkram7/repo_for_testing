@@ -9,5 +9,5 @@ isAvailable: true
 scenarioCount: 3
 isNew: true
 categories: 
-  - golang
+  - kubernetes
 
