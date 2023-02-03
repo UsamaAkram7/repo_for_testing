@@ -7,5 +7,6 @@ price:
   currency: USD
 categories: 
   - kubernetes
-learningPaths: []
+learningPaths:
+  - New Kube Course Test Lp 1
 complexity: advance
