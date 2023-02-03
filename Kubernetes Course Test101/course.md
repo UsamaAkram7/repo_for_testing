@@ -9,8 +9,4 @@ categories:
   - kubernetes
 learningPaths:
   - Kubernetes Learning Path 11
-  - Kubernetes Learning Path 22
-  - Kubernetes Learning Path 33
-  - Kubernetes Learning Path 44
-  - Kubernetes Learning Path 55
 complexity: advance
